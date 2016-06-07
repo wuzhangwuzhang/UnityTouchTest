@@ -1,0 +1,4 @@
+4.6.3p3:2.2.0.0
+Android
+E:\Unity\Editor\Data\PlaybackEngines\androidplayer/Managed/UnityEngine.dll
+E:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll
