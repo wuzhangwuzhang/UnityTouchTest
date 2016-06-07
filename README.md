@@ -1,2 +1,2 @@
 # UnityTouchTest
-Touch Control Mode Rotate And Scale.l 
+Touch Control Model Rotate And Scale.l 
